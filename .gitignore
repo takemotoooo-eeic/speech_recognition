@@ -1,0 +1,10 @@
+data
+*/exp*
+*/backup*
+*/wav
+*/fbank
+*/mfcc
+*/__pycache__
+*/*.png
+02dp_matching/alignment.txt
+.mypy_cache
